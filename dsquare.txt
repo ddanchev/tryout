@@ -1,0 +1,7 @@
+This is the first line of my first file
+then we got he second
+documentation
+JIRA
+Confluence
+Atlassian
+new line
