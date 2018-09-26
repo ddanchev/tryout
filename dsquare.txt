@@ -5,4 +5,6 @@ JIRA
 Confluence
 FOOBAR
 new line
+edited the file
+yet again
 new branch added changes
