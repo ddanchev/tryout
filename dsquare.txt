@@ -3,7 +3,6 @@ then we got he second
 documentation
 JIRA
 Confluence
-this it the line that changed
-Atlassian
+FOOBAR
 new line
 new branch added changes
